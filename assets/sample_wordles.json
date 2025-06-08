@@ -1,0 +1,1243 @@
+[
+    {
+        "word": "apple",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "grape",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "gehen",
+        "type": "verb",
+        "language": "german"
+    },
+    {
+        "word": "Apfel",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "table",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "Liebe",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "duenn",
+        "type": "adjective",
+        "language": "german"
+    },
+    {
+        "word": "rasch",
+        "type": "adjective",
+        "language": "german"
+    },
+    {
+        "word": "dance",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "flink",
+        "type": "adjective",
+        "language": "german"
+    },
+    {
+        "word": "Ahorn",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "fever",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "Jubel",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Dampf",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Tiger",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "haben",
+        "type": "verb",
+        "language": "german"
+    },
+    {
+        "word": "Allee",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "bread",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "chair",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "table",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "house",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "money",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "night",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "party",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "queen",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "river",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "sheep",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "tiger",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "world",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "youth",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "beach",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "brain",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "cloud",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "dream",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "earth",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "flame",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "fruit",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "grass",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "heart",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "horse",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "laugh",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "light",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "lunch",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "music",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "ocean",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "paint",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "peace",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "plant",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "prize",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "radio",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "salad",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "shirt",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "sleep",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "smile",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "snake",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "sport",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "stone",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "story",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "sugar",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "theme",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "toast",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "train",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "truck",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "truth",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "watch",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "water",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "woman",
+        "type": "noun",
+        "language": "english"
+    },
+    {
+        "word": "admit",
+        "type": "verb",
+        "language": "english"
+    },
+    
+    {
+        "word": "allow",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "apply",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "argue",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "begin",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "break",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "bring",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "build",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "carry",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "catch",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "claim",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "clean",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "clear",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "climb",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "close",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "count",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "cover",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "dance",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "dream",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "drink",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "drive",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "enjoy",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "exist",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "fight",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "focus",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "force",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "guess",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "laugh",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "learn",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "leave",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "limit",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "match",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "occur",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "offer",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "order",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "paint",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "phone",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "place",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "plant",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "point",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "press",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "prove",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "raise",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "reach",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "react",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "serve",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "share",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "shoot",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "sleep",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "smile",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "solve",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "speak",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "spend",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "stand",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "start",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "steal",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "study",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "teach",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "thank",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "think",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "throw",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "touch",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "train",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "trust",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "visit",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "watch",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "worry",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "write",
+        "type": "verb",
+        "language": "english"
+    },
+    {
+        "word": "Apfel",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Tisch",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Stuhl",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Blume",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Brot ",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Glanz",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Karte",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Mauer",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Mitte",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Moped",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Nacht",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Pferd",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Radio",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Regen",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Rente",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Riese",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Rinde",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Rosen",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Saite",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Salat",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Sonne",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Spatz",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Stadt",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Stein",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Stift",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Sturm",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Tasse",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Tiger",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Traum",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Vater",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Wagen",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Welle",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Wiese",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Wolke",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Wurst",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Zange",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Zebra",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Ziege",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Zunge",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Zweck",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Zweig",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Adler",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Allee",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Ahorn",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Biene",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Birne",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Blatt",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Boden",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Bogen",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Buch ",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Dachs",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Dampf",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Daten",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Degen",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Dinge",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Dosen",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Faden",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Farbe",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Fisch",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Fluss",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Fuchs",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Gabel",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Gasse",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Glanz",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Globe",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Hafen",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Hahn ",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Haken",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Halle",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Handy",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Hase ",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Herde",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Herde",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Hirse",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Hobel",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Hotel",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kabel",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kamel",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kante",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Karte",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kegel",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kette",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kiste",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Klima",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kling",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kloß ",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kohle",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Komet",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Kreis",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Krone",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Lachs",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Lager",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Laken",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Lampe",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Lanze",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Laser",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Leder",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Lehre",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Licht",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Linde",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Lippe",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Liste",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Luchs",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Lunge",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Maler",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Mango",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Mauer",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Messe",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Miete",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Milch",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Mitte",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Modul",
+        "type": "noun",
+        "language": "german"
+    },
+    {
+        "word": "Moped",
+        "type": "noun",
+        "language": "german"
+    }
+]
