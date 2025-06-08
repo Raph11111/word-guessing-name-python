@@ -39,7 +39,7 @@ Befolgen Sie diese Schritte, um das Spiel lokal auszuführen:
 
 1.  **Klonen Sie das Repository:**
     ```bash
-    git clone [https://github.com/IhrBenutzername/word-guessing-game.git](https://github.com/IhrBenutzername/word-guessing-game.git)
+    git clone https://github.com/Raph11111/word-guessing-name-python.git
     cd word-guessing-game
     ```
 
